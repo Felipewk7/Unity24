@@ -1,3 +1,5 @@
 eu n sei o que to fazendo
+<<<<<<< HEAD
 ainda n sei o que to fazendo
 quero dormir
+>>>>>>> parent of 5b0b659 (aprimoramento do texto)
